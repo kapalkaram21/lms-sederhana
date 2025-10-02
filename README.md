@@ -1,1 +1,1 @@
-# lms-sederhana
+# webgis-sederhana
