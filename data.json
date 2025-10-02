@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Indomaret Tonsea Lama",
+    "address": "Tonsea Lama, Kec. Tondano Utara, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.3160501232658814,
+    "lng": 124.92042049014114,
+    "image_url": "img/tonsea_lama.jpg",
+    "description": "Indomaret ini terletak strategis di jalan utama Tonsea Lama, sering menjadi persinggahan bagi para pelancong."
+  },
+  {
+    "name": "Indomaret Walanda Maramis",
+    "address": "Jl. Walanda Maramis, Ranowangko, Tondano Tim., Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.3018886852234004, 
+    "lng": 124.91224616187715,
+    "image_url": "img/walanda_maramis.jpg",
+    "description": "Toko yang berada di jalur padat Walanda Maramis, dekat dengan pusat kota Tondano."
+  },
+  {
+    "name": "Indomaret Samratulangi Tondano",
+    "address": "Roong, Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.2965120076683376, 
+    "lng": 124.91028898887863,
+    "image_url": "img/samratulangi_tondano.jpg",
+    "description": "Lokasi yang strategis di pusat perbelanjaan Roong, memiliki lahan parkir yang memadai."
+  },
+  {
+    "name": "Indomaret Kampung Jawa",
+    "address": "Kampung Jawa, Tondano Utara, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.310564540796861, 
+    "lng": 124.91846189839009,
+    "image_url": "img/kampung_jawa.jpg",
+    "description": "Salah satu Indomaret terdekat dari area pemukiman padat penduduk Kampung Jawa."
+  },
+  {
+    "name": "Indomaret Manguni",
+    "address": "Wewelen, Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.3122275549061304, 
+    "lng": 124.91262978122431,
+    "image_url": "img/manguni.jpg",
+    "description": "Terletak di Wewelen, toko ini menjadi pilihan cepat untuk kebutuhan sehari-hari."
+  },
+  {
+    "name": "Indomaret Kendis",
+    "address": "Jl. Walanda Maramis, Kendis, Tondano Timur, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.3054820361050388, 
+    "lng": 124.91335478683092,
+    "image_url": "img/kendis.jpg",
+    "description": "Akses mudah dari jalan raya utama, sangat cocok untuk berhenti sejenak."
+  },
+  {
+    "name": "Indomaret Raya Tombulu 116",
+    "address": "Jl. Tombulu, Rerewokan, Kec. Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.303847565082958, 
+    "lng": 124.90912112171313,
+    "image_url": "img/raya_tombulu.jpg",
+    "description": "Toko yang berada tepat di pinggir Jalan Raya Tombulu, melayani kebutuhan area Rerewokan."
+  },
+  {
+    "name": "Indomaret Piere Tendean",
+    "address": "Wawalintouan, Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.301319993443985, 
+    "lng": 124.90921898979576,
+    "image_url": "img/piere_tendean.jpg",
+    "description": "Dekat dengan fasilitas umum, Indomaret ini ramai dikunjungi setiap hari."
+  },
+  {
+    "name": "Indomaret Rinegetan",
+    "address": "Tounkuramber, Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.2993585099882174, 
+    "lng": 124.90618762624217,
+    "image_url": "img/rinegetan.jpg",
+    "description": "Pusat perbelanjaan kecil yang melayani kebutuhan warga Tounkuramber dan sekitarnya."
+  },
+  {
+    "name": "Indomaret Kiniar",
+    "address": "Kiniar, Tondano Timur, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.2949890918321203, 
+    "lng": 124.91309460156415,
+    "image_url": "img/kiniar.jpg",
+    "description": "Berlokasi di Kiniar, Indomaret ini mudah dijangkau oleh warga Tondano Timur."
+  },
+  {
+    "name": "Indomaret Tataaran 2",
+    "address": "Masarang, Tondano Barat, Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.2885110123683747, 
+    "lng": 124.87891206351651,
+    "image_url": "img/tataaran2.jpg",
+    "description": "Menyediakan berbagai kebutuhan mahasiswa dan warga sekitar area Tataaran."
+  },
+  {
+    "name": "Indomaret Raya Unima",
+    "address": "Jl. Kampus Unima, Tataaran Dua, Kec. Tondano Sel., Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.280751054481555, 
+    "lng": 124.87719510326077,
+    "image_url": "img/raya_unima.jpg",
+    "description": "Sangat dekat dengan Universitas Negeri Manado (UNIMA), lokasi strategis untuk mahasiswa."
+  },
+  {
+    "name": "Indomaret perum UNIMA",
+    "address": "Indomaret perum unima, Jl. Kampus Unima, Tataaran Patar, Kec. Tondano Sel., Kabupaten Minahasa, Sulawesi Utara",
+    "lat": 1.2679428074159318, 
+    "lng": 124.87526253286876,
+    "image_url": "img/perum_unima.jpg",
+    "description": "Melayani kebutuhan penghuni perumahan di lingkungan UNIMA, buka 24 jam."
+  }
+]
